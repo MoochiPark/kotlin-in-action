@@ -1,4 +1,4 @@
-package io.wisoft.daewon.ch02_kotlin_basics.iteration
+package io.wisoft.daewon.ch02KotlinBasics.iteration
 
 fun fizzBuzz(i: Int) =
     when {

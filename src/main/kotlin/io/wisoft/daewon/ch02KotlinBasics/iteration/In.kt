@@ -1,4 +1,4 @@
-package io.wisoft.daewon.ch02_kotlin_basics.iteration
+package io.wisoft.daewon.ch02KotlinBasics.iteration
 
 fun isLetter(c: Char) = c in 'a'..'z' || c in 'A'..'Z'
 fun isNotDigit(c: Char) = c !in '0'..'9'

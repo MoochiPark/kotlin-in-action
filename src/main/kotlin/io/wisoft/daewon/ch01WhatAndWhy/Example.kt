@@ -1,4 +1,4 @@
-package io.wisoft.daewon.ch01_what_and_why
+package io.wisoft.daewon.ch01WhatAndWhy
 
 data class Person(                         // 데이터 클래스
     val name: String,

@@ -1,4 +1,4 @@
-package io.wisoft.daewon.ch02_kotlin_basics
+package io.wisoft.daewon.ch02KotlinBasics
 
 fun main(args: Array<String>) {
     println("Hello, World!")

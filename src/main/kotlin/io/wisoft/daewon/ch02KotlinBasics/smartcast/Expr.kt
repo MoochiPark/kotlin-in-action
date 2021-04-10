@@ -1,4 +1,4 @@
-package io.wisoft.daewon.ch02_kotlin_basics.smartcast
+package io.wisoft.daewon.ch02KotlinBasics.smartcast
 
 interface Expr
 class Num(val value: Int) : Expr

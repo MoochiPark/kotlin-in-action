@@ -1,6 +1,6 @@
-package io.wisoft.daewon.ch02_kotlin_basics
+package io.wisoft.daewon.ch02KotlinBasics
 
-import io.wisoft.daewon.ch02_kotlin_basics.Color.*
+import io.wisoft.daewon.ch02KotlinBasics.Color.*
 
 enum class Color(
     val r: Int, val g: Int, val b: Int      // 상수의 프로퍼티 정의

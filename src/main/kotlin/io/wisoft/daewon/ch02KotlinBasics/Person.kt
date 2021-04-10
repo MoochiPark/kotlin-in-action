@@ -1,4 +1,4 @@
-package io.wisoft.daewon.ch02_kotlin_basics
+package io.wisoft.daewon.ch02KotlinBasics
 
 class Person(
     val name: String,       // 읽기 전용 프로퍼티. 비공개 필드, 게터를 만들어낸다.

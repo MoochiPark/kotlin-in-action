@@ -1,4 +1,4 @@
-package io.wisoft.daewon.ch02_kotlin_basics.geometry.shapes
+package io.wisoft.daewon.ch02KotlinBasics.geometry.shapes
 
 import java.util.Random
 

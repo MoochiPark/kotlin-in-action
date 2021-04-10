@@ -1,4 +1,4 @@
-package io.wisoft.daewon.ch02_kotlin_basics.exceptionhandling
+package io.wisoft.daewon.ch02KotlinBasics.exceptionhandling
 
 import java.io.BufferedReader
 import java.io.StringReader
