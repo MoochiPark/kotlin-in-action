@@ -22,5 +22,4 @@ fun main() {
 
     parsePath("/User/daewon/kotlin-in-action/chapter.adoc")
     "/User/daewon/kotlin-in-action/chapter.adoc".parsePath("""(.+)/(.+)\.(.+)""".toRegex())
-
 }
